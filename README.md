@@ -1,11 +1,11 @@
 <p align="center" style="margin-bottom: 0px !important;">
- <a href="https://github.com/CryingHaru">
+ <a href="#">
  <img src="https://files.catbox.moe/r5pndh.png" alt="HaruCraft" href="#"align="center">
 </a>
 </p>
 <h1 align="center">Hola soy un Humano</h1>
 <div align="center">
-<a href="https://github.com/CryingHaru">
+<a href="https://github.com/CryingHaru/The-secretcave">
 <img src="https://cdn.discordapp.com/emojis/925177978143535135.png?v=1">
 </div>
 </a>
