@@ -3,7 +3,7 @@
  <img src="https://files.catbox.moe/r5pndh.png" alt="HaruCraft" href="#"align="center">
 </a>
 </p>
-<h1 align="center">Hola soy un Humano</h1>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=8000&color=FFFFFF&center=true&repeat=false&width=435&lines=Hola,+soy+un+humano" alt="Hola soy un Humano" /></a>
 <div align="center">
 <a href="https://github.com/CryingHaru/The-secretcave">
 <img src="https://cdn.discordapp.com/emojis/925177978143535135.png?v=1">
