@@ -5,7 +5,7 @@
 </p>
 <a href="https://github.com/CryingHaru"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=8000&color=FFFFFF&center=true&repeat=false&width=435&lines=Hola,+soy+un+humano" alt="Hola soy un Humano" /></a>
 
-<a href="https://github.com/CryingHaru/The-secretcave">
+<a href="https://github.com/CryingHaru/Administrador-de-Inventario-y-ventas">
  <div align="center">
 <img src="https://cdn.discordapp.com/emojis/925177978143535135.png?v=1">
 </div>
